@@ -1,8 +1,3 @@
-# echo.github.io
----
-layout: default
-title: Support - Echo
----
 
 # Echo — Support & Assistance
 
