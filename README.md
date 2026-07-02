@@ -16,7 +16,7 @@ Yes. Transcription, semantic search, and the Apple Intelligence model all run lo
 
 ### 📬 Contact Us for Support
 If your issue is not resolved by the FAQ, you can reach out to us directly:
-* **Report a bug / Request a feature:** [Open a GitHub Issue](https://github.com/Enutrof-bg/hackaton-apple-echo/issues)
+* **Report a bug / Request a feature:** [Open a GitHub Issue](https://github.com/Enutrof-bg/hackathon-apple-echo/issues)
 * **Contact by Email:** [kevwang@student.42.fr](mailto:kevwang@student.42.fr)
 
 ---
